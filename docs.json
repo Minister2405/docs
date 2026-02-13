@@ -101,6 +101,15 @@
             ]
           }
         ]
+      },
+      {
+        "product": "Product",
+        "groups": [
+          {
+            "group": "Group 1",
+            "pages": []
+          }
+        ]
       }
     ]
   },
