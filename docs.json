@@ -107,7 +107,24 @@
         "groups": [
           {
             "group": "Group 1",
-            "pages": []
+            "pages": [
+              {
+                "group": "Group 2",
+                "pages": [
+                  {
+                    "group": "Group 3",
+                    "pages": [
+                      {
+                        "group": "Group 4",
+                        "pages": [
+                          "test-page"
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
           }
         ]
       }
